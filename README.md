@@ -18,6 +18,10 @@
 
 - [https://github.com/JnuSimba/AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes)
 
+# Website
+
+- [稀土掘金-安全攻防专栏](https://juejin.cn/column/6984680829171531789)
+
 # Developers
 
 - [tiann, weishu](https://github.com/tiann)
