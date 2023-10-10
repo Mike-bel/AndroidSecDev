@@ -22,6 +22,10 @@
 
 - [稀土掘金-安全攻防专栏](https://juejin.cn/column/6984680829171531789)
 
+- [韩曙亮-CSDN专栏-Android 逆向](http://blog.csdn.net/shulianghan/category_11396146.html)
+
+- [韩曙亮-CSDN专栏-Android 安全](https://blog.csdn.net/shulianghan/category_10559800.html)
+
 # Developers
 
 - [tiann, weishu](https://github.com/tiann)
