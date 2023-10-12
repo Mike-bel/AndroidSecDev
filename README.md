@@ -26,6 +26,10 @@
 
 - [韩曙亮-CSDN专栏-Android 安全](https://blog.csdn.net/shulianghan/category_10559800.html)
 
+# JNI & NDK
+
+- [稀土掘金-彭旭锐-NDK 开发](https://juejin.cn/column/6973486991916662798)
+
 # Developers
 
 - [tiann, weishu](https://github.com/tiann)
