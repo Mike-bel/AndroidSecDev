@@ -48,6 +48,8 @@
 
 - [某车联网App 通讯协议加密分析](https://cloud.tencent.com/developer/article/2087554)
 
+- [小米手机MIUI .bak 备份文件提取微信聊天记录数据库](https://github.com/Heyxk/notes/blob/master/notes/%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E6%8F%90%E5%8F%96%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%95%B0%E6%8D%AE%E5%BA%93.md)
+
 # E-Book
 
 - [IDA-Pro权威指南-第2版-.pdf](https://tutorial.evogtechteam.com/wp-content/uploads/2016/11/IDA-Pro%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97-%E7%AC%AC2%E7%89%88-.pdf)
