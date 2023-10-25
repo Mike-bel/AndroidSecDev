@@ -34,6 +34,8 @@
 
 - [稀土掘金-彭旭锐-NDK 开发](https://juejin.cn/column/6973486991916662798)
 
+- [Android JNI 学习实践](https://segmentfault.com/a/1190000043943287#item-5)
+
 # Developers
 
 - [tiann, weishu](https://github.com/tiann)
