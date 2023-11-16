@@ -46,6 +46,18 @@
 
   IDA F5 补充 JNIEnv 结构的设置方式
 
+# Xposed + Magisk
+
+- [安卓Root后的可玩性到底有多强？【Magisk+Xposed介绍】](https://sumver.cn/archives/1278/)
+
+- [HyperCeiler(Cemiuiler)](https://github.com/saraSakuHj/HyperCeiler)
+
+# repack
+
+- [Android Apk 重打包检测](https://github.com/kstom/repackeddetect)
+
+- [聊聊Android签名检测7种核心检测方案详解](https://bbs.kanxue.com/thread-278982)
+
 # Some Cases
 
 - [某车联网App 通讯协议加密分析](https://cloud.tencent.com/developer/article/2087554)
