@@ -52,6 +52,12 @@
 
 - [HyperCeiler(Cemiuiler)](https://github.com/saraSakuHj/HyperCeiler)
 
+# KernelSU
+
+- [KernelSU Android 上的内核级的 root 方案](https://kernelsu.org/zh_CN/)
+
+- [kernelsu 中文网](https://kernelsu.com/)
+
 # repack
 
 - [Android Apk 重打包检测](https://github.com/kstom/repackeddetect)
