@@ -66,7 +66,7 @@
 
 # 安卓设备指纹
 
- [聊聊大厂设备指纹其二&Hunter环境检测思路详解](https://bbs.kanxue.com/thread-277402.htm)
+- [聊聊大厂设备指纹其二&Hunter环境检测思路详解](https://bbs.kanxue.com/thread-277402.htm)
 
 # Some Cases
 
