@@ -64,6 +64,10 @@
 
 - [聊聊Android签名检测7种核心检测方案详解](https://bbs.kanxue.com/thread-278982)
 
+# 安卓设备指纹
+
+ [聊聊大厂设备指纹其二&Hunter环境检测思路详解](https://bbs.kanxue.com/thread-277402.htm)
+
 # Some Cases
 
 - [某车联网App 通讯协议加密分析](https://cloud.tencent.com/developer/article/2087554)
