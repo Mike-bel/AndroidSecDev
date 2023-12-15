@@ -68,6 +68,10 @@
 
 - [聊聊大厂设备指纹其二&Hunter环境检测思路详解](https://bbs.kanxue.com/thread-277402.htm)
 
+# SVC 和 SysCall
+
+- [SVC的TraceHook沙箱的实现&无痕Hook实现思路](https://bbs.kanxue.com/thread-273160.htm)
+
 # Some Cases
 
 - [某车联网App 通讯协议加密分析](https://cloud.tencent.com/developer/article/2087554)
