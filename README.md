@@ -14,6 +14,8 @@
 
 - [YAHFA](https://github.com/PAGalaxyLab/YAHFA)
 
+- [LSPlant](https://github.com/LSPosed/LSPlant)
+
 # References
 
 - [https://github.com/JnuSimba/AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes)
